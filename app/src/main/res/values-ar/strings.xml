@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TranBus demo</string>
+    <string name="main_title1">أستنى باصك من جوا بيتك</string>
+    <string name="main_title2">الآن يمكنك مراقبة الباصات وتصفح المسارات</string>
+    <string name="where_to">  البحث عن محطة أو خط؟</string>
+    <string name="seeAllTracks">شاهد جميع المسارات</string>
+    <string name="aroundYou">بالقرب منك</string>
+    <string name="allTracks_title1">جميع المسارات هنا</string>
+    <string name="allTracks_title2">اختر المسار للحصول على مزيد من المعلومات عنه</string>
+    <string name="track_card_title">مسار تجريبي</string>
+    <string name="track_card_start">نقطة بداية تجريبية</string>
+    <string name="track_card_end">نقطة نهاية تجريبية</string>
+    <string name="track_card_dis">12.5 كم</string>
+    <string name="track_card_time">المعدل الزمني للرحلة: 45 دقيقة</string>
+    <string name="track_card_price">0.5 د.أ</string>
+    <string name="search_title">ابحث عن محطة او نقطة بداية او نهاية</string>
+    <string name="bus_track_name">نوع الباص</string>
+    <string name="bus_bus_id">رقم الباص</string>
+    <string name="bus_bus_year">سنة الإصدار</string>
+    <string name="bus_max_number">أقصى عدد من الركاب</string>
+    <string name="bus_button">شاهد معلومات المسار</string>
+    <string name="start_point">نقطة البداية</string>
+    <string name="end_point">نقطة النهاية</string>
+    <string name="trip_point">سعر الرحلة</string>
+    <string name="average_travel_time">المعدل الزمني للرحلة</string>
+    <string name="track_distance">طول الرحلة</string>
+    <string name="active_buses">الباصات الفعالة</string>
+    <string name="main_city">المدينة الرئيسية</string>
+    <string name="see_buses_on_the_map">شاهد الباصات على الخريطة</string>
+    <string name="splash_name">مشروع التخرج النسخة التجريبية</string>
+</resources>
